@@ -1,0 +1,14 @@
+Action a=new Action(driver);
+a.doubleclick();
+a.contextclick();
+a.drageAndDrop(source,destination).build().perform();
+
+String parentwindw=driver.getWindowHAndle();
+Set<String>childwindow=driver.getWindowHAndles();
+for(String k:childWindow)
+{
+if(!parentwindow.equals(
+@Beforemathode(depondonmehod
+@dependonsonmethod="sanity")
+
+https://github.com/Uma-Selvam/windowshandling.git
